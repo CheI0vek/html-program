@@ -407,6 +407,10 @@ h1,h2,h3,h4,h5,h6{
     margin-bottom: 0.5rem;
 }
 
+.contact__info-href{
+    color: #333;
+}
+
 .contact__info-icon{
     margin-right: 0.5rem;
 }
